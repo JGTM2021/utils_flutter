@@ -1,7 +1,7 @@
 name: utils_flutter
 description: A handy Flutter package for common usage.
 version: 0.0.1-dev
-homepage:
+repository: https://github.com/JGTM2021/utils_flutter
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
